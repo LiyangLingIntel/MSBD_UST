@@ -12,7 +12,7 @@
 
 * **How to run it:** 
 
-  * Open [performance_modeling.ipynb](http://localhost:8889/notebooks/performance_modeling.ipynb) with `jupyter notebook`
+  * Open [performance_modeling.ipynb](https://github.com/lyonling/MSBD_UST/blob/master/5001/performance_modeling.ipynb) with `jupyter notebook`
   * Choose the kernel with correct python environment
   * Press restart and re-run button
   * check the output file in the same directory
