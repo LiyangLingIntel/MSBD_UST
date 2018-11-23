@@ -19,13 +19,16 @@
 
 * **PS:** 
 
-  I noted all my explonary code to make sure my code can be run directly.
+  * All data files are under `./data/` directory.
 
-  The explonary procedure is important to find the final answer, I didn't delete them.
+  * I noted all my explonary code to make sure my code can be run directly.
 
-  So forgive me if you see lots of comments in the file.
+    The explonary procedure is important to get the final answer, I didn't delete them.
 
-  If code cannot be re-run, please let me know.
+    So forgive me if you see lots of comments in the file.
+
+    If code cannot be re-ran, please let me know.
+
 
 ### 
 
