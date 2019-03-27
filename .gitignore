@@ -7,11 +7,11 @@
 **/.idea/
 **/.vscode/
 **/.ipynb_checkpoints/
-CurrencyPrediction_5013/demo/
-EmotionRecognision_5012/src/recognision_facial_landmarks/faces/
-PollutionPrediction_5002/report_rc/
-PollutionPrediction_5002/outputs/
-PUBGPrediction_5001/proposal_presentation/
+5013_CurrencyPrediction/demo/
+5012_EmotionRecognision/src/recognision_facial_landmarks/faces/
+5002_PollutionPrediction/report_rc/
+5002_PollutionPrediction/outputs/
+5001_PUBGPrediction/proposal_presentation/
 **/*.docx
 **/*.pptx
 **/*.csv
