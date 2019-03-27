@@ -5,6 +5,7 @@
 **/report/
 **/__pycache__/
 **/.idea/
+**/.vscode/
 **/.ipynb_checkpoints/
 CurrencyPrediction_5013/demo/
 EmotionRecognision_5012/src/recognision_facial_landmarks/faces/
